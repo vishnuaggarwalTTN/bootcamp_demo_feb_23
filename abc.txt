@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello #3
+=======
+Hello
+>>>>>>> parent of 6b3eae6 (abc)
